@@ -1,0 +1,220 @@
+/* Helper Styles: Do not Delete */
+
+body {
+	margin:  0;
+	padding:  0;
+	box-sizing:  border-box;
+	background-image: url(background.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+
+
+
+}
+z
+/* Put your CSS Styles Below this Line */
+ /* #C7B8A6 badge #BA836F brown  black */
+ 
+
+ a {
+ 	text-decoration: ;
+	color: #C7B8A6;
+
+ }
+  	.navigation {
+  		background-color: #000000;
+  		overflow: hidden;
+  		color: #BA836F;
+      border: 4px solid #BA836F;
+
+
+
+  	}
+  	
+ 
+ .coffee {
+  	align-content: center;
+  	width: 100%;
+     
+ }
+ .logo {
+ 	align-content: center;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+  	width: 50%;
+  	border: 4px solid #BA836F;
+  }
+
+  .specials {
+  	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: space-between;
+    
+
+ 
+}
+
+}
+.pumpkin {
+	width: 100%;
+  
+  
+}
+.pumpkin h2 {
+  color: white;
+}
+.carmel h2 {
+  color: white;
+}
+.muffins {
+  align-content: flex-end;
+  width: 45%;
+  position: absolute;
+  top: 2100px;
+  left: 50%;
+  right: 50%;
+  
+
+
+}
+
+
+.vietnamese_Iced img {
+  width: 300px;
+
+}
+
+
+.ice_coffee img {
+  width: 300px;
+
+}
+
+.nitro_cold_brew img {
+  width: 300px;
+}
+
+.ice_chai_lattee img {
+  width: 300px;
+}
+
+.Croissant img {
+  width: 500px;
+
+}
+
+.Blueberry img {
+  width: 300px;
+}
+.Walnut img {
+  width: 300px;
+}
+	
+
+
+
+h1 { 
+
+		font-family: 'Roboto Slab', serif;
+		font-size: 100px;
+		order: 5;
+    color: white;
+    border-bottom-style: #BA836F;
+
+
+}
+
+h2 { 
+		font-family: 'Roboto Slab', serif;
+		font-size: 34px;
+    color: white;
+}
+
+
+h3 { 
+		font-family: 'Roboto Slab', serif;
+    	font-size: 40px;
+      color: white;
+}
+
+ nav {
+ 	font-size: 40px;
+ 	color: #BA836F;
+
+}
+
+ul {
+		display: flex;
+		list-style-type: none;
+	   justify-content: center;
+}
+
+li {
+	 margin-right: 20px;
+}
+li:hover {
+  background-color: #BA836F;
+  
+}
+
+}
+
+p { 
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+  color: white;
+}
+
+.footer {
+  background-color: #000000;
+  color: #BA836F;
+  padding-top: 75px;
+  padding-bottom: 75px;
+  padding-left: 10%;
+  padding-right: 10%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  border: 4px solid #BA836F;
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+
+}
+.column {
+    float: left;
+    width: 10%;
+    padding: 10px;
+    border-radius: 20px;
+
+}
+.column:hover {
+  background-color: #BA836F;
+
+}
+button:hover {
+  background-color: #BA836F;
+ 
+}
+
+.email-signup {
+  width: 40%;
+}
+.email-wrap {
+  display: flex;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  background-color: #f6f3ee;
+  border-left: 3px solid #735e59;
+  border-top: 3px solid #735e59;
+  border-right: 3px solid #735e59;
+  border-right: none;
+  color: #544541;
+
+}
